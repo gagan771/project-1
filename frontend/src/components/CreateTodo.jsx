@@ -54,6 +54,4 @@ export function CreateTodo(props) {
                     alert("Todo added");
                 })
         }}>Add a todo</button>
-    </div>
-}
-
+    </d
